@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">blabla</string>
+    <string name="email1">Enter email</string>
+    <string name="email">Enter email</string>
+    <string name="Pass1">Enter Password</string>
+    <string name="Pass2">Re-Enter Password</string>
+    <string name="but1">Submit</string>
+    <string name="but2">Submit</string>
+    <string name="But3">Cancel</string>
 </resources>
